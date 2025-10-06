@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ПК\\source\\repos\\Pr6\\Pr6\\Pr6.csproj": {}
+    "C:\\Users\\st310-07\\Desktop\\pr_6\\Pr6_Trpo\\Pr6\\Pr6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ПК\\source\\repos\\Pr6\\Pr6\\Pr6.csproj": {
+    "C:\\Users\\st310-07\\Desktop\\pr_6\\Pr6_Trpo\\Pr6\\Pr6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ПК\\source\\repos\\Pr6\\Pr6\\Pr6.csproj",
+        "projectUniqueName": "C:\\Users\\st310-07\\Desktop\\pr_6\\Pr6_Trpo\\Pr6\\Pr6.csproj",
         "projectName": "Pr6",
-        "projectPath": "C:\\Users\\ПК\\source\\repos\\Pr6\\Pr6\\Pr6.csproj",
-        "packagesPath": "C:\\Users\\ПК\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ПК\\source\\repos\\Pr6\\Pr6\\obj\\",
+        "projectPath": "C:\\Users\\st310-07\\Desktop\\pr_6\\Pr6_Trpo\\Pr6\\Pr6.csproj",
+        "packagesPath": "C:\\Users\\st310-07\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\st310-07\\Desktop\\pr_6\\Pr6_Trpo\\Pr6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ПК\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\st310-07\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\st310-07\\.nuget\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -68,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

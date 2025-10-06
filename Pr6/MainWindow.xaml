@@ -21,7 +21,7 @@
         </DockPanel>
 
         <!--Основная панель-->
-        <Grid DockPanel.Dock="Top"  Margin="15 15 15 0">
+        <Grid DockPanel.Dock="Top"  Margin="10 10 10 0">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="3*"/>
                 <ColumnDefinition Width="7*"/>
@@ -59,10 +59,10 @@
                 <DatePicker DockPanel.Dock="Right" Width="230" />
             </DockPanel>
 
-            <DockPanel LastChildFill="False" Grid.Row="4" Grid.Column="1" Margin="5 5 0 5">
+            <DockPanel LastChildFill="False" Grid.Row="4" Grid.Column="1" Margin="5 0 0 0" VerticalAlignment="Center">
                 <TextBlock Text="Пол:"  DockPanel.Dock="Left" />
                 <StackPanel DockPanel.Dock="Right" Width="230" Orientation="Horizontal">
-                    <RadioButton Content="Мужской"/>
+                    <RadioButton Content="Мужской" Margin="0 0 12 0"/>
                     <RadioButton Content="Женский"/>
                 </StackPanel>
             </DockPanel>
